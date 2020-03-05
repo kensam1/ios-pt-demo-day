@@ -4,7 +4,7 @@
 
 1. Fork and clone the repository
 2. **Add your presentation content**
-    1. Slide deck (4 required slides)
+    1. Slide deck (4 required slides) 
     2. Links
     3. Answer all questions 
     4. YouTube demo video (1-2 min max)
@@ -16,29 +16,27 @@
 
 ## Links
 
-* Github Code: `<insert Github repository link here>`
-* Github Proposal: `<insert Proposal Pull Request here>`
-* Trello/Github Project Kanban: `<insert trello board here>`
+* Github Code: https://github.com/iOSPT5-BW1/Unit-Convert-II/pull/1
+* Github Proposal: https://github.com/kensam1/ios-build-sprint-project-proposal
+* Trello/Github Project Kanban: https://www.notion.so/84b37ced00b4477196bfc1a11ef7c78e?v=7a00b6845897424e9632e5cedd9962a4
 * Test Flight Signup (Recommended): `<insert beta signup link here>`
-* YouTube demo video (Recommended): `<insert video url here>`
+* YouTube demo video (Recommended): `<insert video url here>` // * by monday night*
 
 ## Hero Image
 
-`<Post one screenshot in an iPhone Simulator frame or an iPhone 11 Pro render using placeit.com>`
+// screenshot
 
 ## Questions (Answer indented below)
 
-1. What was your favorite feature to implement? Why?
-
-    `<Your answer here>`
+1. What was your favorite feature to implement? Why? 
+I enjoy this entire project completely. From creating the main screen to creating the currency converter. But my favorite was building and implementing the metric converter. The reason this was my favorite is because I dedicated the most of my time to this feature, and it used alot of calculation and math which is my favorite subject.
 
 2. What was your #1 obstacle or bug that you fixed? How did you fix it?
-
-    `<Your answer here>`
+My #1 obstacle was figuring out the code on how to convert backwards. I tried to make my app dynamic that the user can put in a measurement for the basic unit (meters, grams, liters) to a metric unit (deka, hecto, kilo, deci, centi, mili) and vice versa. The first part was simple, but figuring out how to convert backwards was tricky. I figured something out but I still had minor bugs with the calculations. So i decided to make that part of the code a stretch goal because I didnt want to focus on this part of the app for a long time.
   
 3. Share a chunk of code (or file) you're proud of and explain why.
 
-    `<Your answer here>`
+    // Screenshot
   
 4. What is your elevator pitch? (30 second description your Grandma or a 5-year old would understand)
 
