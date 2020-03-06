@@ -24,7 +24,7 @@
 
 ## Hero Image
 
-// screenshot
+![Main Screen](https://github.com/kensam1/ios-pt-demo-day/blob/master/AppScreenshotMain.png)
 
 ## Questions (Answer indented below)
 
