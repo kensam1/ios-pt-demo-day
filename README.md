@@ -19,8 +19,8 @@
 * Github Code: https://github.com/iOSPT5-BW1/Unit-Convert-II/pull/1
 * Github Proposal: https://github.com/kensam1/ios-build-sprint-project-proposal
 * Trello/Github Project Kanban: https://www.notion.so/84b37ced00b4477196bfc1a11ef7c78e?v=7a00b6845897424e9632e5cedd9962a4
-* Test Flight Signup (Recommended): `<insert beta signup link here>`
-* YouTube demo video (Recommended): `<insert video url here>` // * by monday night*
+* Test Flight Signup (Recommended): `<insert beta signup link here>` // do this
+* YouTube demo video (Recommended): `<insert video url here>` // * do this by monday night*
 
 ## Hero Image
 
@@ -37,20 +37,19 @@ My #1 obstacle was figuring out the code on how to convert backwards. I tried to
 3. Share a chunk of code (or file) you're proud of and explain why.
 
     ![Code:](https://github.com/kensam1/ios-pt-demo-day/blob/master/codeSnippet.png)
+    I decided to show this piece of code because this is the where you will find most of the functionality of my app at. At its basic, this app is a Unit Converter, where users can input any number and this app will convert it to whatever unit they decide to choose. This snippet of code is how the app does the conversion. All the calculations comes from this snippet. Its the most important code in my opinion.
   
 4. What is your elevator pitch? (30 second description your Grandma or a 5-year old would understand)
 
-    `<Your answer here>`
+    Hi! My name is Kennedy Samarakody and I am a App Developer. I just created a unique and dynamic new app that anyone can use and it is called "Convert Me". Its an app that lets you convert numbers to a different unit.
   
 5. What is your #1 feature?
-
-    `<Your answer here>`
-  
+As the name suggest, this app at its core is a unit converter. It converts measurements from one unit to another. That is my main feature.
 6. What are you future goals?
 
-    `<Your answer here>`
+    My future goals is to continue this bootcamp and get a good full time job in this career. As for this app, I would like to continue on this app, so it gives more options to the user. Right now, I gave them choices on what kind of conversions they can perform such as from meters to kilometers, etc. I hope in the future I can let the user decide what kind of conversion they want to do and not give them options. 
 
-## Required Slides (Add your Keynote to your PR)
+## Required Slides (Add your Keynote to your PR) // do this
 
 1. App Name / Team Slide
 2. Elevator Pitch
