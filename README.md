@@ -36,7 +36,7 @@ My #1 obstacle was figuring out the code on how to convert backwards. I tried to
   
 3. Share a chunk of code (or file) you're proud of and explain why.
 
-    // Screenshot
+    ![Code:](https://github.com/kensam1/ios-pt-demo-day/blob/master/codeSnippet.png)
   
 4. What is your elevator pitch? (30 second description your Grandma or a 5-year old would understand)
 
